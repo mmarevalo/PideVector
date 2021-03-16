@@ -35,7 +35,11 @@ public class ArrayTemp {
         System.out.println("El promedio de temperaturas es: " + media);
     }
 
-    public static void main(String[] args) {
+    /**
+    * @param args 
+    * probamos que funcionan los metodos
+    */
+    public static void main(String[] args) { 
 
         ArrayTemp a = new ArrayTemp();
         a.pidePOS();
